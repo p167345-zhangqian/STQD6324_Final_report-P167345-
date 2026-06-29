@@ -231,6 +231,10 @@ business-data-analysis-final-report/
 │   ├── 02_data_cleaning_queries.sql
 │   └── 03_business_analysis_queries.sql
 │
+├── report/
+│   ├── STQD6324 Data Management_Final_Report.docx
+│   └── STQD6324 Data Management_Final_Report.pdf
+│
 └── screenshots/
     ├── 01_hive_raw_table_preview.png
     ├── 02_data_cleaning_checks.png
@@ -245,6 +249,8 @@ business-data-analysis-final-report/
 `figures/` contains the final visualizations created from Apache Zeppelin.
 
 `hive_scripts/` contains the HiveQL scripts used for database creation, data cleaning, and business analysis.
+
+`report/` contains the final report in Word and PDF format.
 
 `screenshots/` contains supporting screenshots from Hive data loading, data cleaning checks, cleaned table creation, and business analysis queries.
 
